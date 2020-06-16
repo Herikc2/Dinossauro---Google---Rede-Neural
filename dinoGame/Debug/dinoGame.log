@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (dinoGame.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Users\Windows\source\repos\Dinossauro - Google - Rede-Neural\dinoGame\rede_neural.h(20,2): warning C4091: 'typedef ': ignorado à esquerda de 'Neuronio' quando nenhuma variável é declarada
+C:\Users\Windows\source\repos\Dinossauro - Google - Rede-Neural\dinoGame\rede_neural.h(26,2): warning C4091: 'typedef ': ignorado à esquerda de 'Camada' quando nenhuma variável é declarada
+C:\Users\Windows\source\repos\Dinossauro - Google - Rede-Neural\dinoGame\rede_neural.h(34,2): warning C4091: 'typedef ': ignorado à esquerda de 'RedeNeural' quando nenhuma variável é declarada
+C:\Users\Windows\source\repos\Dinossauro - Google - Rede-Neural\dinoGame\Tipos.h(49,2): warning C4091: 'typedef ': ignorado à esquerda de 'Dinossauro' quando nenhuma variável é declarada
+C:\Users\Windows\source\repos\Dinossauro - Google - Rede-Neural\dinoGame\rede_neural.h(231): warning C4715: 'RedeNeural_CarregarRede': nem todos os caminhos de controle retornam um valor
+  dinoGame.vcxproj -> C:\Users\Windows\source\repos\Dinossauro - Google - Rede-Neural\Debug\Dinossauro - Google - Rede Neural.exe

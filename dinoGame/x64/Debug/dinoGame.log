@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: símbolo externo indefinido __imp_al_show_native_message_box referenciado na função "void __cdecl error_msg(char const *)" (?error_msg@@YAXPEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_image_addon referenciado na função "int __cdecl inicializar(void)" (?inicializar@@YAHXZ)
+C:\Users\ASUS\OneDrive - UNIVALI\Herikc\Projetos\Allegro\dinoGame\x64\Debug\dinoGame.exe : fatal error LNK1120: 2 externo não resolvidos
